@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xjmr0aKtYGM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221PART3\\ChatBotWPF\\ChatBotWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.windows.extensions\\9.0.6\\system.windows.extensions.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

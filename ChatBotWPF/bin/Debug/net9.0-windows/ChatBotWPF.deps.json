@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ChatBotWPF/1.0.0": {
+        "dependencies": {
+          "System.Windows.Extensions": "9.0.6"
+        },
+        "runtime": {
+          "ChatBotWPF.dll": {}
+        }
+      },
+      "System.Windows.Extensions/9.0.6": {
+        "runtime": {
+          "lib/net9.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.625.26613"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.625.26613"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatBotWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Extensions/9.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t0NLE1cAXUmO2aiwCjesf9TVwttjaHnkKpiFBTm/d10QnQD6aiGYmrWLhS0HBIo4utB/jPkgRF0SJVbgrgfZ/Q==",
+      "path": "system.windows.extensions/9.0.6",
+      "hashPath": "system.windows.extensions.9.0.6.nupkg.sha512"
+    }
+  }
+}

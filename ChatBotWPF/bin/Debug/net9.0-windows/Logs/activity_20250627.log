@@ -1,0 +1,200 @@
+2025-06-27 23:05:05 [Info] - Initialized 10 quiz questions
+2025-06-27 23:05:05 [Info] - Quiz game reset
+2025-06-27 23:05:05 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:05:15 [Info] - User input received: Cindy
+2025-06-27 23:05:32 [Info] - User input received: what is my name
+2025-06-27 23:05:47 [Info] - User input received: my name?
+2025-06-27 23:06:08 [Info] - User input received: tell me about password
+2025-06-27 23:06:14 [Info] - User input received: tell me more
+2025-06-27 23:06:24 [Info] - User input received: safe browsing
+2025-06-27 23:06:31 [Info] - User input received: bye
+2025-06-27 23:08:06 [Info] - Initialized 10 quiz questions
+2025-06-27 23:08:06 [Info] - Quiz game reset
+2025-06-27 23:08:06 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:08:16 [Info] - User input received: Cindy
+2025-06-27 23:08:27 [Info] - User input received: what is my name
+2025-06-27 23:08:44 [Info] - User input received: tell me about password
+2025-06-27 23:08:58 [Info] - User input received: what about safe browsing
+2025-06-27 23:09:06 [Info] - User input received: what is safe browsing
+2025-06-27 23:09:27 [Info] - User input received: safe browsing
+2025-06-27 23:13:05 [Info] - Initialized 10 quiz questions
+2025-06-27 23:13:05 [Info] - Quiz game reset
+2025-06-27 23:13:05 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:13:38 [Info] - User input received: Cindy
+2025-06-27 23:14:01 [Info] - User input received: name
+2025-06-27 23:14:12 [Info] - User input received: who am i
+2025-06-27 23:14:28 [Info] - User input received: tell me about password
+2025-06-27 23:14:32 [Info] - User input received: tell me more
+2025-06-27 23:14:43 [Info] - User input received: safe browsing
+2025-06-27 23:15:05 [Info] - User input received: my favourite topic is malware
+2025-06-27 23:15:28 [Info] - User input received: add task review my password security
+2025-06-27 23:15:40 [Info] - User input received: remind me in 2 days
+2025-06-27 23:16:06 [Info] - User input received: mark as completed review my password security
+2025-06-27 23:16:45 [Info] - User input received: mark as complete review my password security
+2025-06-27 23:17:13 [Info] - User input received: add task check firewall settings
+2025-06-27 23:17:21 [Info] - User input received: remind me in 1 day
+2025-06-27 23:17:36 [Info] - User input received: mark as completed  check firewall settings
+2025-06-27 23:18:28 [Info] - User input received: show my tasks
+2025-06-27 23:19:30 [Info] - User input received: delete task review my password security
+2025-06-27 23:19:51 [Info] - User input received: show my tasks
+2025-06-27 23:20:17 [Info] - User input received: can you remind me to update my password tomorrow?
+2025-06-27 23:20:41 [Info] - User input received: i need to add a task to check my firewall settings
+2025-06-27 23:20:54 [Info] - User input received: what's on my to-do list
+2025-06-27 23:21:13 [Info] - User input received: tell me about password security
+2025-06-27 23:21:30 [Info] - User input received: start quiz
+2025-06-27 23:21:30 [Info] - Quiz game started
+2025-06-27 23:21:30 [Debug] - Retrieved question 1/10
+2025-06-27 23:21:34 [Info] - User input received: 2
+2025-06-27 23:21:34 [Info] - Question 1: Submitted answer 1 (Correct: 2), Result: Incorrect
+2025-06-27 23:21:34 [Debug] - Retrieved question 2/10
+2025-06-27 23:21:38 [Info] - User input received: 4
+2025-06-27 23:21:38 [Info] - Question 2: Submitted answer 3 (Correct: 3), Result: Correct
+2025-06-27 23:21:38 [Debug] - Retrieved question 3/10
+2025-06-27 23:21:41 [Info] - User input received: 2
+2025-06-27 23:21:41 [Info] - Question 3: Submitted answer 1 (Correct: 2), Result: Incorrect
+2025-06-27 23:21:41 [Debug] - Retrieved question 4/10
+2025-06-27 23:21:44 [Info] - User input received: 2
+2025-06-27 23:21:44 [Info] - Question 4: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:21:44 [Debug] - Retrieved question 5/10
+2025-06-27 23:21:48 [Info] - User input received: 2
+2025-06-27 23:21:48 [Info] - Question 5: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:21:48 [Debug] - Retrieved question 6/10
+2025-06-27 23:21:59 [Info] - User input received: 3
+2025-06-27 23:21:59 [Info] - Question 6: Submitted answer 2 (Correct: 4), Result: Incorrect
+2025-06-27 23:21:59 [Debug] - Retrieved question 7/10
+2025-06-27 23:22:02 [Info] - User input received: 2
+2025-06-27 23:22:02 [Info] - Question 7: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:22:02 [Debug] - Retrieved question 8/10
+2025-06-27 23:22:07 [Info] - User input received: 3
+2025-06-27 23:22:07 [Info] - Question 8: Submitted answer 2 (Correct: 1), Result: Incorrect
+2025-06-27 23:22:07 [Debug] - Retrieved question 9/10
+2025-06-27 23:22:14 [Info] - User input received: 2
+2025-06-27 23:22:14 [Info] - Question 9: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:22:14 [Debug] - Retrieved question 10/10
+2025-06-27 23:22:17 [Info] - User input received: 2
+2025-06-27 23:22:17 [Info] - Question 10: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:22:17 [Info] - Quiz completed. Final score: 6/10
+2025-06-27 23:22:17 [Info] - Final results: Score 6/10 - Not bad! Consider learning more about cybersecurity best practices.
+2025-06-27 23:22:32 [Info] - User input received: show activity log
+2025-06-27 23:32:09 [Info] - Initialized 10 quiz questions
+2025-06-27 23:32:09 [Info] - Quiz game reset
+2025-06-27 23:32:09 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:32:25 [Info] - User input received: Cindy
+2025-06-27 23:32:37 [Info] - User input received: who am i
+2025-06-27 23:32:48 [Info] - User input received: tell me about password
+2025-06-27 23:33:05 [Info] - User input received: tell me about password
+2025-06-27 23:33:30 [Info] - Initialized 10 quiz questions
+2025-06-27 23:33:30 [Info] - Quiz game reset
+2025-06-27 23:33:30 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:33:55 [Info] - User input received: Cindy
+2025-06-27 23:34:02 [Info] - User input received: who am i
+2025-06-27 23:34:13 [Info] - User input received: tell me about password
+2025-06-27 23:34:21 [Info] - User input received: password
+2025-06-27 23:34:38 [Info] - User input received: my favourite topic is malware
+2025-06-27 23:36:30 [Info] - Initialized 10 quiz questions
+2025-06-27 23:36:30 [Info] - Quiz game reset
+2025-06-27 23:36:30 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:36:48 [Info] - Initialized 10 quiz questions
+2025-06-27 23:36:48 [Info] - Quiz game reset
+2025-06-27 23:36:48 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:36:58 [Info] - User input received: cindy
+2025-06-27 23:37:09 [Info] - User input received: my favourite is phishing
+2025-06-27 23:37:22 [Info] - User input received: my favourite topic is phishing
+2025-06-27 23:37:41 [Info] - User input received: my favourite topic is safe browsing
+2025-06-27 23:37:54 [Info] - Initialized 10 quiz questions
+2025-06-27 23:37:54 [Info] - Quiz game reset
+2025-06-27 23:37:54 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:38:19 [Info] - User input received: Cindy
+2025-06-27 23:38:27 [Info] - User input received: who am i
+2025-06-27 23:38:38 [Info] - User input received: tell me about password
+2025-06-27 23:38:44 [Info] - User input received: password
+2025-06-27 23:38:59 [Info] - User input received: my favourite topic is safe browsing
+2025-06-27 23:39:17 [Info] - User input received: what is my favourite topic
+2025-06-27 23:39:39 [Info] - User input received: my favourite
+2025-06-27 23:39:53 [Info] - User input received: favourite
+2025-06-27 23:40:11 [Info] - Initialized 10 quiz questions
+2025-06-27 23:40:11 [Info] - Quiz game reset
+2025-06-27 23:40:11 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:40:31 [Info] - User input received: Cindy
+2025-06-27 23:40:37 [Info] - User input received: who am i
+2025-06-27 23:40:45 [Info] - User input received: tell me about password
+2025-06-27 23:40:53 [Info] - User input received: password
+2025-06-27 23:41:11 [Info] - Initialized 10 quiz questions
+2025-06-27 23:41:11 [Info] - Quiz game reset
+2025-06-27 23:41:11 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:41:31 [Info] - User input received: Cindy
+2025-06-27 23:41:37 [Info] - User input received: who am i
+2025-06-27 23:41:51 [Info] - User input received: tell me about password
+2025-06-27 23:41:58 [Info] - User input received: password
+2025-06-27 23:42:20 [Info] - User input received: my favourite topic is safe browsing
+2025-06-27 23:42:41 [Info] - User input received: add task check firewall settings
+2025-06-27 23:42:51 [Info] - User input received: remind me in 2 days
+2025-06-27 23:43:17 [Info] - User input received: mark as complete check firewall settings
+2025-06-27 23:43:38 [Info] - User input received: add task review password security
+2025-06-27 23:43:46 [Info] - User input received: remind me in 1 day
+2025-06-27 23:44:24 [Info] - User input received: delete task review password security
+2025-06-27 23:44:47 [Info] - User input received: delete task check firewall settings
+2025-06-27 23:45:11 [Info] - Initialized 10 quiz questions
+2025-06-27 23:45:11 [Info] - Quiz game reset
+2025-06-27 23:45:11 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:45:41 [Info] - User input received: Cindy
+2025-06-27 23:45:48 [Info] - User input received: who am i
+2025-06-27 23:45:58 [Info] - User input received: tell me about password
+2025-06-27 23:46:07 [Info] - User input received: password
+2025-06-27 23:46:27 [Info] - User input received: add task check firewall settings
+2025-06-27 23:46:38 [Info] - User input received: remind me in 2 days
+2025-06-27 23:47:00 [Info] - User input received: add task review password security
+2025-06-27 23:47:08 [Info] - User input received: remind me in 7 days
+2025-06-27 23:47:29 [Info] - User input received: mark as complete check firewall settings
+2025-06-27 23:48:06 [Info] - User input received: can you remind me to update my password tomorrow?
+2025-06-27 23:48:59 [Info] - Initialized 10 quiz questions
+2025-06-27 23:48:59 [Info] - Quiz game reset
+2025-06-27 23:48:59 [Info] - CybersecurityQuiz initialized
+2025-06-27 23:49:31 [Info] - User input received: Cindy
+2025-06-27 23:49:37 [Info] - User input received: who am i
+2025-06-27 23:49:46 [Info] - User input received: tell me about password
+2025-06-27 23:49:53 [Info] - User input received: password
+2025-06-27 23:50:11 [Info] - User input received: my favourite topic is safe browsing
+2025-06-27 23:50:38 [Info] - User input received: add task review password security
+2025-06-27 23:50:45 [Info] - User input received: remind me in 2 days
+2025-06-27 23:51:04 [Info] - User input received: add task check firewall settings
+2025-06-27 23:51:10 [Info] - User input received: remind me in 7 days
+2025-06-27 23:51:35 [Info] - User input received: mark as complete check firewall settings
+2025-06-27 23:52:08 [Info] - User input received: can you remind me to update my password tomorrow?
+2025-06-27 23:52:51 [Info] - User input received: i need to add a task to check my firewall settings
+2025-06-27 23:53:08 [Info] - User input received: start quiz
+2025-06-27 23:53:08 [Info] - Quiz game started
+2025-06-27 23:53:08 [Debug] - Retrieved question 1/10
+2025-06-27 23:53:22 [Info] - User input received: 3
+2025-06-27 23:53:22 [Info] - Question 1: Submitted answer 2 (Correct: 2), Result: Correct
+2025-06-27 23:53:22 [Debug] - Retrieved question 2/10
+2025-06-27 23:53:36 [Info] - User input received: 3
+2025-06-27 23:53:36 [Info] - Question 2: Submitted answer 2 (Correct: 3), Result: Incorrect
+2025-06-27 23:53:36 [Debug] - Retrieved question 3/10
+2025-06-27 23:53:49 [Info] - User input received: 3
+2025-06-27 23:53:49 [Info] - Question 3: Submitted answer 2 (Correct: 2), Result: Correct
+2025-06-27 23:53:49 [Debug] - Retrieved question 4/10
+2025-06-27 23:53:59 [Info] - User input received: 2
+2025-06-27 23:53:59 [Info] - Question 4: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:53:59 [Debug] - Retrieved question 5/10
+2025-06-27 23:54:04 [Info] - User input received: 2
+2025-06-27 23:54:04 [Info] - Question 5: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:54:04 [Debug] - Retrieved question 6/10
+2025-06-27 23:54:11 [Info] - User input received: 2
+2025-06-27 23:54:11 [Info] - Question 6: Submitted answer 1 (Correct: 4), Result: Incorrect
+2025-06-27 23:54:11 [Debug] - Retrieved question 7/10
+2025-06-27 23:54:16 [Info] - User input received: 2
+2025-06-27 23:54:16 [Info] - Question 7: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:54:16 [Debug] - Retrieved question 8/10
+2025-06-27 23:54:20 [Info] - User input received: 2
+2025-06-27 23:54:20 [Info] - Question 8: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:54:20 [Debug] - Retrieved question 9/10
+2025-06-27 23:54:24 [Info] - User input received: 2
+2025-06-27 23:54:24 [Info] - Question 9: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:54:24 [Debug] - Retrieved question 10/10
+2025-06-27 23:54:28 [Info] - User input received: 2
+2025-06-27 23:54:28 [Info] - Question 10: Submitted answer 1 (Correct: 1), Result: Correct
+2025-06-27 23:54:28 [Info] - Quiz completed. Final score: 8/10
+2025-06-27 23:54:28 [Info] - Final results: Score 8/10 - Good work! You know quite a bit about cybersecurity.
+2025-06-27 23:54:53 [Info] - User input received: show activity log
+2025-06-27 23:55:15 [Info] - User input received: what's on my to-do list
